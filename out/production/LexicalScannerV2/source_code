@@ -1,0 +1,17 @@
+var a;
+var b;
+a = 30; b = 50;
+c = 60;
+while a <= b do
+a = a + 10
+end
+write a
+'z'
+write -1
+write abc123
+write 12
+write 123abc
+write 01
+write 'x
+'£'
+write 'ok'
